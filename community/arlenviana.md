@@ -3,7 +3,7 @@
 
 - 🌱 Estou atualmente aprendendo **Python**
 
-<h3 align="left">Conetse se comigo:</h3>
+<h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 
 </p>
